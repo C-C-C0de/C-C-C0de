@@ -19,7 +19,11 @@
 
 <table align="center">
 
+<div align="center">
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=60&duration=6000&pause=1000&color=3B9600&center=true&vCenter=true&repeat=false&width=650&height=110&lines=%F0%9F%8D%95AbOuT+Me%F0%9F%8D%95" alt="Typing SVG" /></a>
+
+</div>
 
 <tr>
 <td style="border: 2px solid green; border-radius: 10px; padding: 20px;">
