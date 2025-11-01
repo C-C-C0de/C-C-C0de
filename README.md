@@ -1,6 +1,6 @@
 <div align="center">
 
-<span style="font-size: 2.5em;">🌟 MY PROFILE 🌟</span>
+<span style="font-size: 4em; color: #00ff00;">🌟 MY PROFILE 🌟</span>
 
 ✨✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨✨
 
@@ -13,9 +13,9 @@
 
 <table align="center">
 <tr>
-<td style="border: 2px solid green; border-radius: 10px; padding: 20px;">
+<td style="border: 2px solid #00ff00; border-radius: 10px; padding: 20px;">
 
-<span style="color: green; font-size: 2em;">📋 ОБО МНЕ</span>
+# <span style="color: #00ff00; font-size: 1.8em;">📋 ОБО МНЕ</span>
 
 ✨・―――――――・✨
 
@@ -30,7 +30,7 @@ sdfsdfsdfdsf
 
 ✨✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨✨
 
-<span style="font-size: 2em;">💻 Tech Stack</span>
+<span style="font-size: 2em; color: #00ff00;">💻 Tech Stack</span>
 
 ![C++](https://img.shields.io/badge/C++-8A2BE2?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=6A0DAD&color=9B30FF)
 ![Assembly](https://img.shields.io/badge/Assembly-4A4A4A?style=for-the-badge&logo=assemblyscript&logoColor=white&labelColor=2C2C2C&color=666666)
@@ -53,7 +53,7 @@ sdfsdfsdfdsf
 
 <span style="font-size: 1.8em;">📊 GitHub Statistics</span>
 
-![Total Stars](https://img.shields.io/github/stars/C-C-C0de?style=for-the-badge&label=🌟%20Total%20Stars&color=FF6B6B&labelColor=2C2C2C&logo=github&logoColor=white)
+![Total Stars](https://img.shields.io/github/stars/C-C-C0de?style=for-the-badge&label=🌟%20Total%20Stars&color=FF6B6B&labelColor=2C2C2C&logo=github&logoColor=#000000)
 ![Profile Views](https://komarev.com/ghpvc/?username=C-C-C0de&style=for-the-badge&label=👀%20Profile%20Views&color=FF6B6B&labelColor=2C2C2C)
 
 ✨✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨✨
