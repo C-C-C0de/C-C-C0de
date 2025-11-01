@@ -67,8 +67,16 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=60&duration=6000&pause=1000&color=3B9600&center=true&vCenter=true&repeat=false&width=600&height=110&lines=%F0%9F%93%8AGitHuB+StAtiStIcS%F0%9F%93%8A" alt="Typing SVG" /></a>
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=C-C-C0de&show_icons=true&hide_title=true&hide=prs,issues&count_private=true&theme=dark&bg_color=45,FF0080,0070FF&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-C-C0de&layout=compact&theme=dark&bg_color=45,FF0080,0070FF&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=C-C-C0de&bg_color=0d1117&color=ff0080&line=0070ff&point=ff0080&area_color=ff0080&area=true&hide_border=false&border=FFFFFF&border_radius=10&custom_title=📊%20My%20Contribution%20Activity📊&title_color=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=C-C-C0de&theme=radical&row=2&column=4&no-bg=true&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Total Stars](https://img.shields.io/github/stars/C-C-C0de?style=for-the-badge&label=🌟%20Total%20Stars&color=FF6B6B&labelColor=2C2C2C&logo=github&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=C-C-C0de&style=for-the-badge&label=🌟%20Profile%20Views&color=FF6B6B&labelColor=2C2C2C&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=C-C-C0de&style=for-the-badge&label=👀%20PROFILE%20VIEWS&color=FF0080&labelColor=0070FF&logo=eye&logoColor=white&gradient=linear-gradient(45deg,FF0080,0070FF))
 
 ✨✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨✨
 
