@@ -6,11 +6,12 @@
 
 </div>
 
+
 <table align="center">
 <tr>
-<td style="border: 2px solid #93ff6b; border-radius: 10px; padding: 20px;">
+<td style="border: 2px solid green; border-radius: 10px; padding: 20px; background-color: #2e3428ff; border-bottom: 4px solid #377926ff;">
 
-# <span style="color: #93ff6b;">📋 ***ОБО МНЕ***</span>
+# <span style="color: green;">📋 ОБО МНЕ</span>
 
 ✨・―――――――・✨
 
@@ -22,12 +23,16 @@ sdfsdfsdfdsf
 </tr>
 </table>
 
+<div align="center">
+
 ## 💻 Tech Stack
+
 ![C++](https://img.shields.io/badge/C++-8A2BE2?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=6A0DAD&color=9B30FF)
 ![Assembly](https://img.shields.io/badge/Assembly-4A4A4A?style=for-the-badge&logo=assemblyscript&logoColor=white&labelColor=2C2C2C&color=666666)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=2C2C2C)
 
+</div>
 
 <div align="center">
 
