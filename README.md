@@ -81,3 +81,19 @@
 ✨✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨✨
 
 </div>
+
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=60&duration=6000&pause=1000&color=3B9600&center=true&vCenter=true&repeat=false&width=650&height=110&lines=%F0%9F%92%ACCoNnECt+WiTh+Me%F0%9F%92%AC" alt="Typing SVG" /></a>
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+
+[![Email](https://img.shields.io/badge/📧%20Email-apex__228@bk.ru-FF0080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0070FF)](mailto:apex_228@bk.ru)
+
+[![Discord](https://img.shields.io/badge/💬%20Discord-%5F%5F%5F%5Fbounty.dd%5F%5F%5F%5F-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2C2C2C)](https://discord.com/users/your_user_id)
+
+✨✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨✨
+
+</div>
+
+
