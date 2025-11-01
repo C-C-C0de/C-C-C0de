@@ -1,6 +1,9 @@
 <div align="center">
+💫
 
-# ***🌟 MY PROFILE 🌟***
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster+Two&size=90&duration=6000&pause=1000&color=3B9600&center=true&vCenter=true&repeat=false&width=600&height=110&lines=%F0%9F%92%ABMy+profile%F0%9F%92%AB)](https://git.io/typing-svg)
+
+💫
 
 ✨✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨✨
 
