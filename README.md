@@ -92,19 +92,17 @@
 
 [![Discord](https://img.shields.io/badge/💬%20Discord-%5F%5F%5F%5Fbounty.dd%5F%5F%5F%5F-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2C2C2C)](https://discord.com/users/your_user_id)
 
+
+<div align="center">
+
 ✨✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨✨
 
-
-
-<div align="center" style="background: radial-gradient(circle, #00FF00, #000000); padding: 18px; border-radius: 12px; margin: 10px 0; border: 2px solid #00FF00; box-shadow: 0 0 15px #00FF00, 0 0 25px #00FF00, inset 0 0 15px #00FF00;">
+<div align="center" style="background: #00FF00; padding: 30px; border-radius: 20px; border: 5px solid #000000; margin: 20px 0; box-shadow: 0 0 0 3px #3B9600;">
   
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=1000&pause=250&color=000000&background=00000000&center=true&vCenter=true&repeat=true&width=350&height=60&lines=━━━━✦+C.C.+✦━━━━;════♦+C.C.+♦════;┅┅┅✧+C.C.+✧┅┅┅;╍╍╍♠+C.C.+♠╍╍╍;〜〜〜⌬+C.C.+⌬〜〜〜;✦✦+C.C.+✦✦;⚡⚡+C.C.+⚡⚡;🎮🎮+C.C.+🎮🎮" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=1000&pause=250&color=000000&background=00FF00&center=true&vCenter=true&repeat=true&width=350&height=60&lines=━━━━✦+C.C.+✦━━━━;════♦+C.C.+♦════;┅┅┅✧+C.C.+✧┅┅┅;╍╍╍♠+C.C.+♠╍╍╍;〜〜〜⌬+C.C.+⌬〜〜〜;✦✦+C.C.+✦✦;⚡⚡+C.C.+⚡⚡;🎮🎮+C.C.+🎮🎮" alt="Typing SVG" />
 </a>
 
-</div>
 
 
-✨✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨✨
-
-</div>
+<br>
