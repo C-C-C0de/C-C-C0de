@@ -97,12 +97,14 @@
 
 ✨✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨✨
 
-<div align="center" style="background: #00FF00; padding: 30px; border-radius: 20px; border: 5px solid #000000; margin: 20px 0; box-shadow: 0 0 0 3px #3B9600;">
+<div align="center">
   
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=1000&pause=250&color=000000&background=00FF00&center=true&vCenter=true&repeat=true&width=350&height=60&lines=━━━━✦+C.C.+✦━━━━;════♦+C.C.+♦════;┅┅┅✧+C.C.+✧┅┅┅;╍╍╍♠+C.C.+♠╍╍╍;〜〜〜⌬+C.C.+⌬〜〜〜;✦✦+C.C.+✦✦;⚡⚡+C.C.+⚡⚡;🎮🎮+C.C.+🎮🎮" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=1000&pause=250&color=000000&background=00CC00&center=true&vCenter=true&repeat=true&width=350&height=60&lines=━━━━✦+C.C.+✦━━━━;════♦+C.C.+♦════;┅┅┅✧+C.C.+✧┅┅┅;╍╍╍♠+C.C.+♠╍╍╍;〜〜〜⌬+C.C.+⌬〜〜〜;✦✦+C.C.+✦✦;⚡⚡+C.C.+⚡⚡;🎮🎮+C.C.+🎮🎮" alt="Typing SVG" />
 </a>
 
+</div>
 
+✨✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨✨
 
-<br>
+</div>
