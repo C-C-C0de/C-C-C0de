@@ -97,13 +97,9 @@
 
 ✨✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨✨
 
-<div align="center">
-  
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=1000&pause=250&color=000000&background=00CC00&center=true&vCenter=true&repeat=true&width=350&height=60&lines=━━━━✦+C.C.+✦━━━━;════♦+C.C.+♦════;┅┅┅✧+C.C.+✧┅┅┅;╍╍╍♠+C.C.+♠╍╍╍;〜〜〜⌬+C.C.+⌬〜〜〜;✦✦+C.C.+✦✦;⚡⚡+C.C.+⚡⚡;🎮🎮+C.C.+🎮🎮" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=70&duration=6000&pause=1000&color=000000&background=07BD1B&center=true&vCenter=true&repeat=false&width=1000&height=110&lines=%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%9C%A6+C.C.+%E2%9C%A6%E2%94%81%E2%94%81%E2%94%81%E2%94%81;%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%99%A6+C.C.+%E2%99%A6%E2%95%90%E2%95%90%E2%95%90%E2%95%90;%E2%94%85%E2%94%85%E2%94%85%E2%9C%A7+C.C.+%E2%9C%A7%E2%94%85%E2%94%85%E2%94%85;%E2%95%8D%E2%95%8D%E2%95%8D%E2%99%A0+C.C.+%E2%99%A0%E2%95%8D%E2%95%8D%E2%95%8D;%E3%80%9C%E3%80%9C%E3%80%9C%E2%8C%AC+C.C.+%E2%8C%AC%E3%80%9C%E3%80%9C%E3%80%9C;%E2%9C%A6%E2%9C%A6+C.C.+%E2%9C%A6%E2%9C%A6;%E2%9A%A1%E2%9A%A1+C.C.+%E2%9A%A1%E2%9A%A1;%F0%9F%8E%AE%F0%9F%8E%AE+C.C.+%F0%9F%8E%AE%F0%9F%8E%AE" alt="Typing SVG" /></a>
 
-</div>
+![C.C.](https://img.shields.io/badge/-C.C.-3B9600?style=for-the-badge&logo=star&logoColor=white&labelColor=0d1117)
 
 ✨✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨✨
 
