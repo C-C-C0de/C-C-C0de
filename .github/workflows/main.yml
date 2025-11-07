@@ -2,15 +2,22 @@ name: Metrics
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
+  push:
+    branches: ["main"]
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: C-C-C0de
           template: classic
-          base: ""
-          repositories_visibility: public
+          base: header, activity, community, repositories, metadata
+          repositories: true
           repositories_features: traffic
+          repositories_skipped: C-C-C0de, metrics
+          plugins: traffic, stars, followers
+          config_timezone: Europe/Moscow
