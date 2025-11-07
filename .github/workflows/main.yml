@@ -14,10 +14,50 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: C-C-C0de
-          template: classic
+          
           base: header, activity, community, repositories, metadata
+          template: classic
+          config_animation: true
+          config_display: columns
+          
+          config_background_color: 0,0,0,0
+          config_text_color: 3B9600
+          config_title_color: 07BD1B
+          config_icon_color: 3B9600
+          config_border_color: 07BD1B,0,0,0
+          config_background: gradient
+          config_gradient: 45,07BD1B,3B9600
+          
+          header: hide
+          activity: true
+          activity_limit: 10
+          activity_visibility: all
+          activity_timestamps: true
+          activity_filter: all
+          
+          community: true
           repositories: true
-          repositories_features: traffic
-          repositories_skipped: C-C-C0de, metrics
-          plugins: traffic, stars, followers
+          repositories_limit: 8
+          repositories_features: traffic, stars
+          repositories_description: true
+          repositories_languages: true
+          repositories_languages_limit: 8
+          repositories_languages_colors: github
+          repositories_languages_threshold: 0%
+          
+          plugins: achievements, traffic, stars, followers, isocalendar
+          achievements: true
+          achievements_threshold: B
+          achievements_secrets: true
+          achievements_display: detailed
+          achievements_icons: true
+          
+          isocalendar: full
+          isocalendar_duration: full-year
+          isocalendar_localized: true
+          
           config_timezone: Europe/Moscow
+          config_order: activity, community, repositories, metadata
+          config_features: stars, commits, prs, issues, contributions
+          config_icons: true
+          config_visitors: true
