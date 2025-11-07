@@ -2,15 +2,25 @@ name: Metrics
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
+  push:
+    branches: ["main"]
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: C-C-C0de
           template: classic
-          base: ""
-          repositories_visibility: public
+          base: header, activity, community, repositories, metadata
+          config_theme: "merko"  # Готовая зеленая тема!
+          config_background_color: "0D1117"
+          config_border: true
+          config_border_color: "3B9600"
+          repositories: true
           repositories_features: traffic
+          plugins: stars, followers
+          config_timezone: Europe/Moscow
