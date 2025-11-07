@@ -19,19 +19,25 @@ jobs:
           config_border: true
           config_border_color: "3B9600"
           
-          plugins: repositories
+          base: repositories
           
-          plugin_repositories: yes
-          plugin_repositories_description: no
-          plugin_repositories_languages: no
-          plugin_repositories_limit: 0
-          plugin_repositories_features: traffic, stars
-          plugin_repositories_order: stars
+          repositories: true
+          repositories_limit: 0
+          repositories_features: traffic, stars
+          repositories_order: stars
+          repositories_languages: false
+          repositories_description: false
+          repositories_topics: false
+          repositories_affiliations: owner
           
-          base: ""
-          header: no
-          activity: no
-          community: no
-          metadata: no
+          activity: false
+          community: false
+          metadata: false
+          header: false
+          languages: false
+          habits: false
+          followers: false
+          stars: false
+          isocalendar: false
           
           config_timezone: Europe/Moscow
