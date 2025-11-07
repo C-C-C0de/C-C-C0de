@@ -16,11 +16,16 @@ jobs:
           user: C-C-C0de
           template: classic
           base: header, activity, community, repositories, metadata
-          config_theme: "merko"  # Готовая зеленая тема!
+          config_theme: "merko"
           config_background_color: "0D1117"
           config_border: true
           config_border_color: "3B9600"
+          
           repositories: true
+          repositories_forks: true               
+          repositories_limit: 10
           repositories_features: traffic
+          repositories_affiliations: owner, collaborator
+          
           plugins: stars, followers
           config_timezone: Europe/Moscow
