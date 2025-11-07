@@ -78,6 +78,8 @@
 ![Total Stars](https://img.shields.io/github/stars/C-C-C0de?style=for-the-badge&label=🌟%20Total%20Stars&color=FF6B6B&labelColor=2C2C2C&logo=github&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=C-C-C0de&style=for-the-badge&label=👀%20PROFILE%20VIEWS&color=FF0080&labelColor=0070FF&logo=eye&logoColor=white&gradient=linear-gradient(45deg,FF0080,0070FF))
 
+![Metrics](https://github.com/C-C-C0de/C-C-C0de/blob/main/github-metrics.svg)
+
 ✨✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨✨
 
 </div>
