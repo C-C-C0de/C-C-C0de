@@ -1,4 +1,4 @@
-name: Metrics
+name: Repositories Stats
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
@@ -12,16 +12,24 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: C-C-C0de
+          base: repositories
           template: classic
-          base: activity, repositories  
           config_theme: "merko"
-          config_display: compact
+          config_background_color: "0D1117"
+          config_border: true
+          config_border_color: "3B9600"
           
           repositories: true
-          repositories_limit: 3        
-          repositories_features: traffic 
-          repositories_languages: false  
+          repositories_limit: 0
+          repositories_features: traffic, stars
+          repositories_order: stars
+          repositories_languages: false
           repositories_description: false
+          repositories_topics: false
           
-          plugins: followers
+          header: false
+          activity: false
+          community: false
+          metadata: false
+          
           config_timezone: Europe/Moscow
