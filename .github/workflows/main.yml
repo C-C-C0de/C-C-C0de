@@ -13,19 +13,25 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: C-C-C0de
           
-          base: repositories
           template: classic
           config_theme: "merko"
           config_background_color: "0D1117"
           config_border: true
           config_border_color: "3B9600"
           
-          repositories: true
-          repositories_limit: 0
-          repositories_features: traffic, stars
-          repositories_order: stars
-          repositories_languages: false
-          repositories_description: false
-          repositories_topics: false
+          plugins: repositories
+          
+          plugin_repositories: yes
+          plugin_repositories_description: no
+          plugin_repositories_languages: no
+          plugin_repositories_limit: 0
+          plugin_repositories_features: traffic, stars
+          plugin_repositories_order: stars
+          
+          base: ""
+          header: no
+          activity: no
+          community: no
+          metadata: no
           
           config_timezone: Europe/Moscow
