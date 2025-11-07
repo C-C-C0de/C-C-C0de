@@ -1,9 +1,7 @@
-name: Metrics
+name: Repositories Stats
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
-  push:
-    branches: ["main"]
 jobs:
   metrics:
     runs-on: ubuntu-latest
@@ -14,13 +12,32 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: C-C-C0de
+          
           template: classic
-          base: header, activity, community, repositories, metadata
-          config_theme: "merko"  # Готовая зеленая тема!
+          config_theme: "merko"
           config_background_color: "0D1117"
           config_border: true
           config_border_color: "3B9600"
+          
+          base: repositories
+          
           repositories: true
-          repositories_features: traffic
-          plugins: stars, followers
+          repositories_limit: 0
+          repositories_features: traffic, stars
+          repositories_order: stars
+          repositories_languages: false
+          repositories_description: false
+          repositories_topics: false
+          repositories_affiliations: owner
+          
+          activity: false
+          community: false
+          metadata: false
+          header: false
+          languages: false
+          habits: false
+          followers: false
+          stars: false
+          isocalendar: false
+          
           config_timezone: Europe/Moscow
