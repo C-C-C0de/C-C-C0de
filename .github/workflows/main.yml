@@ -12,7 +12,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: C-C-C0de
-          base: repositories
+          
           template: classic
           config_theme: "merko"
           config_background_color: "0D1117"
@@ -31,5 +31,9 @@ jobs:
           activity: false
           community: false
           metadata: false
+          isocalendar: false
+          languages: false
+          habits: false
+          followers: false
           
           config_timezone: Europe/Moscow
