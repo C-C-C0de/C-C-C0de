@@ -14,6 +14,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: C-C-C0de
+          
           template: classic
           base: header, activity, community, repositories, metadata
           config_theme: "merko"
@@ -22,10 +23,18 @@ jobs:
           config_border_color: "3B9600"
           
           repositories: true
-          repositories_forks: true               
-          repositories_limit: 10
-          repositories_features: traffic
-          repositories_affiliations: owner, collaborator
+          repositories_limit: 20
+          repositories_sort: stars
+          repositories_features: traffic, stars
+          repositories_languages: true
+          repositories_languages_limit: 8
+          repositories_description: true
           
-          plugins: stars, followers
+          repositories_affiliations: owner, collaborator
+          repositories_visibility: public
+          repositories_forks: false  
+          
+          plugins: stars, followers, traffic
           config_timezone: Europe/Moscow
+          
+          config_update: true
